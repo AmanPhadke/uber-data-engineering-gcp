@@ -1,3 +1,4 @@
+[Uber_Analysis_Report (2).pdf](https://github.com/user-attachments/files/34669457/Uber_Analysis_Report.2.pdf)
 # 🚕 Uber Data Engineering Pipeline | GCP
 
 An end-to-end data engineering project that ingests, transforms, models, and analyzes NYC Yellow Taxi trip data using Google Cloud Platform (GCP), Mage AI, BigQuery, and Looker Studio.
@@ -89,7 +90,7 @@ Explore the dashboard:
 For a detailed overview of the project, implementation,
 and dashboard analysis:
 
-[View Uber Analysis Report (PDF)](Uber_Analysis_Report.pdf)
+[View Uber Analysis Report (PDF)](https://github.com/user-attachments/files/34669461/Uber_Analysis_Report.2.pdf)
 
 ### Dashboard Features
 
