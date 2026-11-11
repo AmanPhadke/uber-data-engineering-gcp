@@ -82,7 +82,7 @@ Developed an interactive Looker Studio dashboard to analyze taxi trip patterns, 
 
 Explore the dashboard:
 
-**[View Live Looker Studio Dashboard]((https://datastudio.google.com/reporting/c3786204-d89f-415b-af67-27ea4601a248))**
+**[View Live Looker Studio Dashboard] - https://datastudio.google.com/reporting/c3786204-d89f-415b-af67-27ea4601a248**
 
 ## 📄 Project Report
 
