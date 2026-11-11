@@ -184,7 +184,6 @@ mage start uber-de-project
 ## 📚 Dataset & Acknowledgements
 
 - **Dataset:** NYC TLC Yellow Taxi Trip Records.
-- **Project inspiration:** [Darshil Parmar – Data Engineering Project](https://www.youtube.com/@DarshilParmar).
 
 This is an independent learning project inspired by the referenced tutorial. The dataset represents NYC Yellow Taxi trip records and is not proprietary Uber data.
 
