@@ -84,9 +84,12 @@ Explore the dashboard:
 
 **[View Live Looker Studio Dashboard]((https://datastudio.google.com/reporting/c3786204-d89f-415b-af67-27ea4601a248))**
 
-### Dashboard Preview
+## 📄 Project Report
 
-![Dashboard Overview](images/dashboard-overview.png)
+For a detailed overview of the project, implementation,
+and dashboard analysis:
+
+[View Uber Analysis Report (PDF)](Uber_Analysis_Report.pdf)
 
 ### Dashboard Features
 
@@ -114,23 +117,25 @@ Explore the dashboard:
 ```text
 uber-data-engineering-gcp/
 │
-├── data_loaders/
-│   └── load_uber_data.py
-│
-├── transformers/
-│   └── uber_transformation.py
-│
+├── charts/
+├── custom/
 ├── data_exporters/
-│   └── uber_big_query_load.py
-│
+├── data_loaders/
+├── dbt/
+├── extensions/
+├── interactions/
 ├── pipelines/
-│   └── still_scholar/
-│
-├── images/
-│   └── dashboard-overview.png
+├── scratchpads/
+├── transformers/
+├── utils/
 │
 ├── README.md
-└── .gitignore
+├── requirements.txt
+├── metadata.yaml
+├── __init__.py
+├── .gitignore
+│
+└── Uber_Analysis_Report.pdf
 ```
 
 *Note: The structure above illustrates the main project components. Actual Mage-generated files and configuration may vary.*
