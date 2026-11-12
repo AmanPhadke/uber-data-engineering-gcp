@@ -29,6 +29,7 @@ The pipeline uses Mage AI to orchestrate data ingestion and transformation, Goog
 | Looker Studio | Interactive dashboard and reporting |
 
 ## ⚙️ Data Engineering Workflow
+<img width="1379" height="1091" alt="Blank diagram" src="https://github.com/user-attachments/assets/abf4fd66-5f1f-42de-8a6f-85f6a7b81976" />
 
 ### 1. Data Ingestion
 - Ingested approximately 100,000 NYC Yellow Taxi trip records.
