@@ -146,7 +146,7 @@ uber-data-engineering-gcp/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/uber-data-engineering-gcp.git
+git clone https://github.com/AmanPhadke/uber-data-engineering-gcp.git
 cd uber-data-engineering-gcp
 ```
 
